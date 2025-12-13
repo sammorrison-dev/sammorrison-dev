@@ -4,7 +4,7 @@
 
 ### **Python Developer & Technical Writer 🐍 ✍️🔗**
 
-**Documentation that developers actually read.** Clear guides, real code, and Web3 concepts explained without the hype.
+**I write clean code and the docs to explain it. Python | Automation | Web3. Building tools that save time.**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-sammorrison--dev-181717?style=flat&logo=github&logoColor=white)](https://github.com/sammorrison-dev)
 [![Email](https://img.shields.io/badge/Email-SamMorrison.dev%40proton.me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:SamMorrison.dev@proton.me)
