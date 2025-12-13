@@ -2,7 +2,7 @@
 
 # Sam Morrison
 
-### **Web3 Technical Writer ✍️🔗**
+### **Python Developer & Technical Writer 🐍 ✍️🔗**
 
 **Documentation that developers actually read.** Clear guides, real code, and Web3 concepts explained without the hype.
 
