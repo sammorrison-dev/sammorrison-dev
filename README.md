@@ -25,7 +25,7 @@ Code samples and technical guides hosted in **[this repository](https://github.c
 
 ---
 
-### 📫 Contact
+### Contact
 Available for backend work and technical writing.
 
 **Email:** [SamMorrison.dev@proton.me](mailto:SamMorrison.dev@proton.me)
